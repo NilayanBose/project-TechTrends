@@ -1,0 +1,8 @@
+apiVersion: v1
+description: Install a Techtrends deployment
+keywords: 
+  - techtrends
+maintainers:
+  - name: nilayanbose
+name: techtrends
+version: 1.0.0
